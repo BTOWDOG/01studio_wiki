@@ -204,7 +204,7 @@ CanMV K230 mini散热扇电源线接到下图所示排针，可以选择使用5V
 
 ![module](./img/module/fpc2.png)
 
-### GC2093（可调焦）
+### GC2093（手动调焦）
 
 可以通过手动旋转镜头调整焦距，实现不同距离拍照时更好的清晰度。[**点击购买>>**](https://item.taobao.com/item.htm?id=947782638904)
 
@@ -236,6 +236,47 @@ CanMV K230可以通过CSI0、CSI1接口外接此摄像头。[多路摄像头接�
 CanMV K230 mini可以通过CSI0接口外接此摄像头，教程和代码一样。
 
 ![module](./img/module/gc2093_2_3.png)
+
+### GC2093（自动对焦）
+
+GC2093 AF(自动对焦)摄像头为01Studio CanMV K230开发板配件，可通过代码实现AF(自动对焦）和指定对焦位置模式。
+，实现不同距离拍照时更好的清晰度。[**点击购买>>**](https://item.taobao.com/item.htm?id=1016829180701)
+
+![module](./img/module/gc2093_af_1.png)
+
+![module](./img/module/gc2093_2_4.png)
+
+
+#### 产品参数
+
+|  产品参数 |
+|  :---:  | ---  |
+| 感光芯片  | GC2093 |
+| 像素 | 1920X1080（K230 AI应用最大支持1080P）|
+| 帧率 | 60FPS |
+| 镜头  | 电动调焦 |
+| 焦距  | 4.3mm |
+| 视场角  | D73°/H65°/V40° | 
+| 接口  | 22P-0.5mm FPC |
+
+|  外观规格 |
+|  :---:  | ---  |
+| 总长  | 10cm |
+
+#### 使用说明
+
+CanMV K230可以通过CSI0、CSI1接口外接此摄像头。[多路摄像头接口使用教程>>](../machine_vision/camera.md#多路摄像头接口使用)
+
+![module](./img/module/gc2093_af_2.png)
+
+CanMV K230 mini可以通过CSI0接口外接此摄像头，教程和代码一样。
+
+![module](./img/module/gc2093_af_3.png)
+
+#### 自动对接代码
+
+[自动对接参考代码>>](../machine_vision/camera.md#af自动对焦摄像头)
+
 
 ### OV5647
 

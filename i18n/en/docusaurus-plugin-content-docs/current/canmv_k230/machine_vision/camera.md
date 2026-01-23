@@ -190,7 +190,7 @@ sensor.set_framesize(Sensor.FHD) #Set frame size to FHD (1920x1080), default cha
 sensor.set_pixformat(Sensor.RGB565) #Set the output image format, channel 0
 
 #Use IDE buffer to output images, the display size is consistent with sensor configuration.
-Display.init(Display.VIRT, sensor.width(), sensor.height())
+Display.init(Display.VIRT, sensor.width(), sensor.height(), to_ide=True)
 
 MediaManager.init() #Initialize the media resource manager
 

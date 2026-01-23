@@ -111,7 +111,7 @@ sensor.set_pixformat(Sensor.RGB565) #Set the output image format, channel 0
 ## 3 different ways to display images (modify annotations)
 #############################################################
 
-Display.init(Display.VIRT, sensor.width(), sensor.height()) #Displaying images via IDE buffer
+Display.init(Display.VIRT, sensor.width(), sensor.height(), to_ide=True) #Displaying images via IDE buffer
 #Display.init(Display.LT9611, to_ide=True) #Displaying images via HDMI
 #Display.init(Display.ST7701, to_ide=True) #Display images through 01Studio 3.5-inch mipi display
 

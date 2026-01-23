@@ -46,11 +46,11 @@ touch = TOUCH(index, rotation)
 touch.read([count])
 ```
 获取触摸数据。
-- `count`: 触摸点数。取值[0:10]，默认0，读取全部触摸点。
+- `count`: 触摸点数。取值[0:10]，读取触摸点数量，取决于触摸屏。
 
 结果返回 TOUCH_INFO 类。类里面的x,y表示坐标。
 
-使用例：
+使用示例：
 
 p= touch.read() #读取TOUCH数据
 
@@ -87,8 +87,8 @@ tp = TOUCH(0)
 
 while True:
 
-    # 获取TOUCH数据
-    p = tp.read()
+    # 获取TOUCH数据，5表示获取最多5个触摸点
+    p = tp.read(5)
 
     if p != (): #发生触摸事件
 
