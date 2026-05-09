@@ -12,7 +12,7 @@ RGB灯带是彩灯的一种，我们看到长长的灯带以及LED彩色显示�
 
 ## 实验讲解
 
-先来介绍一下本实验用到的RGB灯带。
+先来介绍一下本实验用到的RGB灯带。[点击购买>>](https://item.taobao.com/item.htm?id=624485087977)
 
 ![neopixel](./img/neopixel/neopixel1.png)
 

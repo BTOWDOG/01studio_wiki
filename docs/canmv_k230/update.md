@@ -4,6 +4,16 @@ sidebar_position: 24
 
 # 更新说明
 
+## 2026-5-9
+
+- 新增 **视觉小车**
+
+    - [视觉小车](./car/intro.md)
+
+- 新增 **传感器和模块 -- Neopixel彩灯**
+
+    - [Neopixel彩灯](./sensor_module/neopixel.md)
+
 ## 2026-1-23
 
 - 新增 **配件**
@@ -37,7 +47,7 @@ sidebar_position: 24
 
 ## 2025-7-23
 
-- 新增 [**二维舵机云台**](./sensor_module/gimbal/intro.md) 应用。含云台组装、舵机控制、PID算法、人脸追踪等教程。
+- 新增 [**二维舵机云台**](./gimbal/intro.md) 应用。含云台组装、舵机控制、PID算法、人脸追踪等教程。
 
 ## 2025-7-1
 

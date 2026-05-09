@@ -110,14 +110,24 @@ sidebar_position: 1
 ### **传感器和拓展模块**
 
 - [继电器](./sensor_module/relay.md) 
+- [Neopixel彩灯](./sensor_module/neopixel.md) 
 - [舵机](./sensor_module/servo.md) 
 - [多路舵机/电机模块](./sensor_module/pyMotors.md) 
-- **二维舵机云台**
-    - [云台介绍和安装](./sensor_module/gimbal/intro.md) 
-    - [云台舵机控制](./sensor_module/gimbal/servo.md)
-    - [PID控制原理](./sensor_module/gimbal/pid.md)   
-    - [人脸追踪](./sensor_module/gimbal/face_tracking.md)      
-    - [色块追踪](./sensor_module/gimbal/color_tracking.md)  
+
+### **二维舵机云台**
+
+- [云台介绍和安装](./gimbal/intro.md) 
+- [云台舵机控制](./gimbal/servo.md)
+- [PID控制原理](./gimbal/pid.md)   
+- [人脸追踪](./gimbal/face_tracking.md)      
+- [色块追踪](./gimbal/color_tracking.md)  
+
+### **视觉小车**
+
+- [小车介绍和组装](./car/intro.md) 
+- [小车电机控制](./car/motor.md) 
+- [小车动作](./car/move.md) 
+- [巡线小车](./car/line_follow.md) 
 
 ### [**社区用户开源项目分享**](./diy.md)
 

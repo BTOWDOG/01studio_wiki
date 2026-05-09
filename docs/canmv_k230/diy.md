@@ -30,7 +30,7 @@ sidebar_position: 19
 
 [01科技（01Studio）CanMV K230 Linux镜像下载>>](https://pan.baidu.com/s/1MzvRk9gjjl5oK59wFBm8hQ?pwd=01KJ)
 
-[教程>>](https://www.kendryte.com/k230_linux/dev/)
+[教程>>](https://www.kendryte.com/k230_linux/zh/main/quick_start.html)
 
 ![diy](./img/diy/linux.png)
 

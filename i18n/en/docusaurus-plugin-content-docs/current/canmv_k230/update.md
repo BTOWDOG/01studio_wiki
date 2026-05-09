@@ -1,8 +1,18 @@
 ---
-sidebar_position: 20
+sidebar_position: 24
 ---
 
 # Update Notes
+
+## 2026-5-9
+
+- Added **Vision Car**
+
+- [Vision Car](./car/intro.md)
+
+- Added **Sensors and Modules -- Neopixel Color Lights**
+
+- [Neopixel Color Lights](./sensor_module/neopixel.md)
 
 ## 2025-11-4
 
@@ -31,7 +41,7 @@ sidebar_position: 20
 
 ## 2025-7-23
 
-- add [**2D servo gimbal**](./sensor_module/gimbal/intro.md). Includes tutorials on gimbal assembly, servo control, PID algorithms, and face tracking.
+- add [**2D servo gimbal**](./gimbal/intro.md). Includes tutorials on gimbal assembly, servo control, PID algorithms, and face tracking.
 
 ## 2025-06-13
 

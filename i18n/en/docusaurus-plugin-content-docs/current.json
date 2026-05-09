@@ -658,5 +658,13 @@
   "sidebar.pyWiFi_ESP32_S3Sidebar.category.AI视觉识别.link.generated-index.description": {
     "message": "pyWiFi ESP32-S3机器视觉应用",
     "description": "The generated-index page description for category AI视觉识别 in sidebar pyWiFi_ESP32_S3Sidebar"
+  },
+  "sidebar.newSidebar.category.视觉小车": {
+    "message": "Car",
+    "description": "The label for category 视觉小车 in sidebar newSidebar"
+  },
+  "sidebar.newSidebar.category.视觉小车.link.generated-index.description": {
+    "message": "CanMV K230视觉小车应用",
+    "description": "The generated-index page description for category 视觉小车 in sidebar newSidebar"
   }
 }
