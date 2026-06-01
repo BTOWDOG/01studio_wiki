@@ -56,4 +56,4 @@ pyDrone模式用于控制01Studio pyDrone四轴飞行器设备，只搜索“pyD
 
 该APP提供一个通用控制模式，遵循pyController协议，支持搜索所有ble标准设备，蓝牙连接后每隔50ms发送一次数据。用户可以使用这个功能来连接自己DIY的设备。
 
-[pyController协议>>](http://localhost:3000/docs/pycontroller/controller/control#%E5%AE%9E%E9%AA%8C%E8%AE%B2%E8%A7%A3)
+[pyController协议>>](./controller/control.md#实验讲解)
