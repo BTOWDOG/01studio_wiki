@@ -91,7 +91,7 @@ sidebar_position: 1
 - 电源适配器（5V/3A）x1
 - USB转DC2.1电源线 x1
 - xh1.25转2.54mm连接线(30cm) x1
-- 2.54mm公对母杜邦线（30cm）x1
+- 2.54mm母对母杜邦线（30cm）x1
 
 ![intro](./img/intro/intro6_2.png)
 

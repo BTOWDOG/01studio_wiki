@@ -12,6 +12,14 @@ CanMV K230 和 CanMV K230 mini 可以使用以下方式供电，要求电压为5
 
 ![power_supply](./img/power_supply/power_supply1.png)
 
+### 5V锂电池
+
+使用01Studio官方配套的5V锂电池。 [点击购买>>](https://item.taobao.com/item.htm?id=1051900977042&skuId=6084485593600)
+
+![power_supply](./img/power_supply/battery1.png)
+
+![power_supply](./img/power_supply/battery2.png)
+
 ### 充电宝
 
 充电宝电压为5V，可以直接连接TYPE-C口给开发板供电。（带TYPE-C接口的5V锂电池也可以。）
