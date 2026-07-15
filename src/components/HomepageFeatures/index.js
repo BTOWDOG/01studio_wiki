@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('@site/static/img/ide.svg').default,
     description: (
       <>
-        * <Translate>CanMV IDE可视化编程，实时查看图像识别结果</Translate><br></br>
+        * <Translate>IDE可视化编程，实时查看图像识别结果</Translate><br></br>
         * <Translate>Python开发，快速上手</Translate>
       </>
     ),

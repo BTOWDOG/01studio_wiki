@@ -88,6 +88,11 @@ const config = {
             items: [
               {
               type: 'docSidebar',
+              sidebarId: 'CyberCAMSidebar',
+              label: 'CyberCAM',
+              },
+              {
+              type: 'docSidebar',
               sidebarId: 'newSidebar',
               label: 'CanMV K230',
               },
@@ -246,11 +251,15 @@ const config = {
             title: '联系我们',
             items: [
               {
-                label: '电话: +86-18123953882 (微信同号)',
+                label: 'Tel: +86-18123953882 (微信同号)',
                 to: '/',              
               },
               {
-                label: '邮箱: support@01studio.cc',
+                label: 'Email: support@01studio.cc',
+                href: '/',
+              },
+                            {
+                label: 'Add: 深圳市宝安区福海街道大洋路中粮（福安）机器人智造产业园',
                 href: '/',
               },
             ],
@@ -265,6 +274,10 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/QxHYBxSzMG',
+              },
+                            {
+                label: 'CyberCAM QQ群: 933425083',
+                to: '/',
               },
               {
                 label: 'CanMV QQ群: 578895334',
