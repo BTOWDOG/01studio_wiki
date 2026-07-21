@@ -11,6 +11,12 @@ sidebar_position: 3
 - 百度网盘链接：https://pan.baidu.com/s/1KrlXYj39KEC83MPjaEXSSQ?pwd=01KJ
 - 提取码：**01KJ**
 
+### QQ群
+- QQ群号：933425083
+
+镜像文件可在Q群下载。
+
+
 ## 资料介绍：
 
 CyberCAM在线教程配套软件、源代码、原理图、芯片手册等。
