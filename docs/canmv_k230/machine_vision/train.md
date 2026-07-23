@@ -326,6 +326,9 @@ train里面的是训练集，val里面的是验证集。
 - `demo-picture.py` ：识别图片demo，会用到val.jpg
 - `demo-camera.py` : 使用摄像头识别 
 
+将`yolo11n_det_320.kmodel` 和`val.jpg`拖动到CanMV K230 `sdcart`根目录：
+
+![train](./img/train/train55_1.png)
 
 #### 基于图片
 
