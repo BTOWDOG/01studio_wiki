@@ -19,10 +19,9 @@ sidebar_position: 1
 
 - **Getting Start**
 
-    - [CanMV K230 IDE installation](./getting_start/canmv_ide.md)
     - [Image burning and Power on](./getting_start/image.md)
-    - [The first Demo test](./getting_start/demo.md)
-    - [REPL（Read-Eval-Print Loop）](./getting_start/repl.md)
+    - [VSCode IDE](./getting_start/vscode_ide.md)
+    - [CanMV K230 IDE installation](./getting_start/canmv_ide.md)
     - [File System](./getting_start/file_system.md)
     - [Run code offline](./getting_start/run_offline.md)
 

@@ -1,8 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# CanMV K230 IDE开发软件安装
+# CanMV K230 IDE开发环境 (逐步弃用)
+
+:::tip 提示
+CanMV K230 IDE开发环境已经逐步弃用，请优先使用[VSCode IDE开发环境](./vscode_ide.md)
+:::
 
 CanMV拥有自己官方的IDE，需要注意的是K210和K230使用不同的IDE开发，CanMV K230 IDE安装包位于 **零一科技（01Studio）MicroPython开发套件（基于CanMV K230平台）配套资料\01-开发工具\01-Windows\CanMV IDE K230开发软件** 文件夹下：
 

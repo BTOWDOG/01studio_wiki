@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 目录
 
-![directory](./img/directory/directory2.png)
+[![directory](./img/directory/directory2.png)](https://item.taobao.com/item.htm?id=821397288809)
 
 ### **CanMV K230套件介绍**
 
@@ -19,10 +19,9 @@ sidebar_position: 1
 
 ### **开发环境搭建**
 
-- [CanMV K230 IDE开发软件安装](./getting_start/canmv_ide.md)
 - [镜像烧录和开机](./getting_start/image.md)
-- [第1个代码测试](./getting_start/demo.md)
-- [REPL串口交互调试](./getting_start/repl.md)
+- [VSCode IDE开发环境](./getting_start/vscode_ide.md)
+- [CanMV K230 IDE开发软件安装(逐步弃用)](./getting_start/canmv_ide.md)
 - [文件系统](./getting_start/file_system.md)
 - [代码离线运行](./getting_start/run_offline.md)
 - [供电方式](./getting_start/power_supply.md)

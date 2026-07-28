@@ -1,8 +1,13 @@
 ---
 sidebar_position: 3
+draft: true
 ---
 
 # 第1个代码测试
+
+:::tip 提示
+CanMV K230 IDE开发环境已经逐步弃用，请优先使用[VSCode IDE开发环境](./vscode_ide.md#运行代码)
+:::
 
 我们使用CanMV K230 IDE来进行我们的第一个实验，借此来熟悉开发环境。插入带镜像SD卡，将CanMV K230开发板通过type-c线连接到电脑。
 

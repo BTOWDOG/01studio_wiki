@@ -46,6 +46,13 @@ const config = {
         docs: {
           //sidebarCollapsible: false, //全部导航栏展开
           sidebarPath: require.resolve('./sidebars.js'),
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+            '**/canmv_k230/getting_start/demo.md',
+            '**/canmv_k230/getting_start/repl.md',
+          ],
           //routeBasePath: '/', // 设置首页路径
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.

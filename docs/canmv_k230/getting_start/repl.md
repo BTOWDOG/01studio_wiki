@@ -1,8 +1,10 @@
----
-sidebar_position: 4
----
 
 # REPL串口交互调试
+
+:::tip 提示
+请优先使用[VSCode IDE开发环境](./vscode_ide.md#终端交互)
+:::
+
 :::tip 提示
 REPL是MicroPython特有的功能，由于大部分IDE都集成了串口终端信息打印，所以这个功能一般情况下不需要用到。
 :::

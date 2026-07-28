@@ -4,6 +4,12 @@ sidebar_position: 24
 
 # 更新说明
 
+## 2026-7-28
+
+- 新增 **开发环境搭建 -- VSCode IDE开发环境**
+
+    - [VSCode IDE开发环境](./getting_start/vscode_ide.md)
+
 ## 2026-5-9
 
 - 新增 **视觉小车**
