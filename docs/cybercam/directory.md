@@ -49,6 +49,18 @@ sidebar_position: 1
 - [摄像头](./machine_vision/camera.md) 
 - [显示屏](./machine_vision/lcd.md) 
 - [画图与字符](./machine_vision/draw.md) 
+- **图像检测**
+    - [边缘检测](./machine_vision/image_detection/find_edges.md) 
+    - [圆形检测](./machine_vision/image_detection/find_circles.md) 
+    - [矩形检测](./machine_vision/image_detection/find_rects.md) 
+- **颜色识别**
+    - [单一颜色识别](./machine_vision/color_recognition/single_color.md) 
+    - [多种颜色识别](./machine_vision/color_recognition/mutli_color.md)
+    - [物体计数（相同颜色）](./machine_vision/color_recognition/count.md)
+- **码类识别**
+    - [条形码识别](./machine_vision/code/barcode.md) 
+    - [二维码识别](./machine_vision/code/qr_code.md) 
+    - [AprilTag识别](./machine_vision/code/apriltag.md)
 - **AI视觉（KPU）**
     - [人脸检测](./machine_vision/ai_vision/face_detection.md) 
     - [人体检测](./machine_vision/ai_vision/person_detection.md) 

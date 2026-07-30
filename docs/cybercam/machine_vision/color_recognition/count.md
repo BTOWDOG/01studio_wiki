@@ -55,13 +55,17 @@ connectedComponentsWithStats查找二值图像中的连通区域，并返回每�
 
 ![count2](./img/count/count2.png)
 
-点击 **工具—机器视觉—阈值编辑器** 。
+点击 **工具栏—阈值编辑器** 。
 
 ![count3](./img/count/count3.png)
 
-在弹出的对话框选择“帧缓冲区”。
+在右边窗口选择“帧缓冲区”。
 
 ![count4](./img/count/count4.png)
+
+选择LAB模式：
+
+![count4](./img/count/count4-1.png)
 
 通过调整下方6个LAB值，使得物体颜色在右边为白色，其余背景为黑色。（需要花费一点时间，找到临界值效果更佳。）
 

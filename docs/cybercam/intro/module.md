@@ -196,6 +196,13 @@ CyberCAM CSI0扩展接口在背面，22P接口。[拓展摄像头接口使用>>]
 
 ![module](./img/module/gc2093_3_5.png)
 
+### 开源支架
+
+CyberCAM扩展摄像头支架开源的，可以自行3D打印。[下载地址>>](https://makerworld.com/zh/models/3072258-01studio-cybercam-extension-camera-mount)
+
+
+![module](./img/module/camera_bracket.png)
+
 
 ## USB转以太网卡
 

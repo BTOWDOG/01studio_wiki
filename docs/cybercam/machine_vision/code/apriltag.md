@@ -31,17 +31,11 @@ AprilTag官网介绍：https://april.eecs.umich.edu/software/apriltag.html
 
 ### AprilTag生成
 
-可以在CanMV IDE生成AprilTag。点击**工具--机器视觉--AprilTag生成器--TAG36H11家族：**
+可以去在线网站生成AprilTag：https://tools.limelightvision.io/apriltag-generator
+
+配置相关参数后点击`Generate`按钮即可生成。
 
 ![apriltag](./img/apriltag/apriltag1.png)
-
-最小输入0 ，最大输入9 ，制作id从0-9共10张标签。
-
-![apriltag](./img/apriltag/apriltag2.png)
-
-点击OK后选择要生成的位置文件夹即可：
-
-![apriltag](./img/apriltag/apriltag3.png)
 
 ## Detector对象
 
