@@ -49,7 +49,6 @@ sidebar_position: 1
 - [摄像头](./machine_vision/camera.md) 
 - [显示屏](./machine_vision/lcd.md) 
 - [画图与字符](./machine_vision/draw.md) 
-- [边缘检测](./machine_vision/find_edges.md) 
 - **AI视觉（KPU）**
     - [人脸检测](./machine_vision/ai_vision/face_detection.md) 
     - [人体检测](./machine_vision/ai_vision/person_detection.md) 
