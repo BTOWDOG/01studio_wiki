@@ -16,6 +16,9 @@ sidebar_position: 3
 
 镜像文件可在Q群下载。
 
+### GitHub (海外地区下载)
+
+镜像下载: https://github.com/01studio-lab/CyberCAM-Apps/releases
 
 ## 资料介绍：
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 目录
 
-![directory](./img/directory/directory1.png)
+[![directory](./img/directory/directory1.png)](https://item.taobao.com/item.htm?id=1064523223030)
 
 ### **CyberCAM介绍**
 
@@ -69,8 +69,11 @@ sidebar_position: 1
     - [手掌检测](./machine_vision/ai_vision/hand_detection.md) 
     - [手掌关键点检测](./machine_vision/ai_vision/hand_keypoint_det.md) 
     - [手掌关键点分类](./machine_vision/ai_vision/hand_keypoint_class.md)
+    - [口罩识别](./machine_vision/ai_vision/mask_det.md)
+    - [车牌识别](./machine_vision/ai_vision/license_det_rec.md)
+    - [YOLO11检测](./machine_vision/ai_vision/yolo11_det.md)
+    - [YOLO11分类](./machine_vision/ai_vision/yolo11_cls.md)
 - [在线模型训练](./machine_vision/train.md) 
-
 ### **网络应用**
 
 - [Socket通讯](./network/socket.md) 
@@ -79,5 +82,7 @@ sidebar_position: 1
 ### **传感器和拓展模块**
 
 - [继电器](./sensor_module/relay.md) 
+
+### [**社区用户开源项目分享**](./diy.md)
 
 ### [**更新说明**](./update.md)

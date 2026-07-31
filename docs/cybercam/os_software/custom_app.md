@@ -128,6 +128,17 @@ CyberCAM上对应APP的图标也更新了。
 
 ![image](./img/custom_app/18.png)
 
+## APP贡献
 
+- CyberCAM Apps 开源仓库：https://github.com/01studio-lab/CyberCAM-Apps 
 
+欢迎贡献您的APP！请遵循以下步骤：
+
+1.Fork本项目；
+
+2.在本地修改代码；
+
+3.提交Pull Request。
+
+请将将测试好的APP上传到app目录下，并在您的APP文件夹内添加README.md文件，介绍你的APP和使用方法。**对于优秀的APP，我们将会在CyberCAM系统中预装，并在官方文档中进行推荐。并给予开发者产品或其它形式奖励。**
 

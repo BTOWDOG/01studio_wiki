@@ -4,6 +4,15 @@ sidebar_position: 24
 
 # 更新说明
 
+## 2026-7-31
+
+- 新增 **机器视觉 -- AI视觉（KPU）**
+
+    - [口罩识别](./machine_vision/ai_vision/mask_det.md)
+    - [车牌识别](./machine_vision/ai_vision/license_det_rec.md)
+
+- 新增 [**社区用户开源项目分享**](./diy.md)
+
 ## 2026-7-30
 
 - 增加 **机器视觉**
