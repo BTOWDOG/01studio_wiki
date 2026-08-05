@@ -78,6 +78,7 @@ sidebar_position: 1
 
 - [Socket通讯](./network/socket.md) 
 - [MQTT通讯](./network/mqtt.md) 
+- [HTTP通讯](./network/http.md)
 
 ### **传感器和拓展模块**
 
