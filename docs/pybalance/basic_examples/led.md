@@ -96,7 +96,7 @@ graph TD
 版本：v1.0
 日期：2026.8
 作者：01Studio
-平台：pyBalance平衡车
+平台：pyBalance平衡小车
 '''
 
 from machine import Pin #导入Pin模块

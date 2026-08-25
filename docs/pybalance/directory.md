@@ -50,12 +50,13 @@ sidebar_position: 1
 
 ### **平衡小车综合实验**
 
-- [平衡小车基础知识](./drone/basic.md)
-- [六轴传感器校准](./drone/cail.md)
-- [超声波跟随](./drone/follow.md)
-- [蓝牙控制](./drone/ble_control.md)
-- [WiFi控制](./drone/wifi_control.md)
-- [APP控制](./drone/app_control.md)
-- [出厂例程](./drone/default_demo.md)
+- [平衡小车基础知识](./balance/basic.md)
+- [六轴传感器校准](./balance/cail.md)
+- [超声波跟随](./balance/follow.md)
+- [蓝牙控制](./balance/ble_control.md)
+- [WiFi控制](./balance/wifi_control.md)
+- [APP控制](./balance/app_control.md)
+- [巡线](./balance/line.md)
+- [出厂例程](./balance/default_demo.md)
 
 ### [**更新说明**](./update.md)
