@@ -82,25 +82,6 @@ import time,busio,board,sys,os,cv2, math
 import numpy as np
 from walnutpi import Sensor, Display, direction, IDE
 
-# 优先当前文件夹下相对路径（app离线部署）
-local_lib_path = "./lib"
-system_lib_path = "/data/app/car/lib"
-
-# 判断优先使用哪个路径
-if os.path.exists(os.path.join(local_lib_path, "adafruit_motor")) or os.path.exists(os.path.join(local_lib_path, "adafruit_pca9685")):
-    target_path = os.path.abspath(local_lib_path)
-# 使用系统绝对路径（IDE运行调试）
-elif os.path.exists(os.path.join(system_lib_path, "adafruit_motor")) or os.path.exists(os.path.join(system_lib_path, "adafruit_pca9685")):
-    target_path = system_lib_path
-else:
-    raise FileNotFoundError("文件缺失，请检查当前路径与系统路径下的文件是否存在。")
-
-# 将找到的路径插入到 sys.path 最前面（确保优先加载它）
-sys.path.insert(0, target_path)
-
-from adafruit_pca9685 import PCA9685
-from adafruit_motor import motor
-
 # 初始化显示屏
 Display.init()
 
